@@ -1,6 +1,8 @@
 # Time-series-analysis
 
-
+## Model Used
 - RNN
-- <br>
 - LSTM
+- GRU
+- MLP
+- SVM Regression
