@@ -1,5 +1,6 @@
 # Time-series-analysis
 
 
--RNN
--LSTM
+- RNN
+- <br>
+- LSTM
