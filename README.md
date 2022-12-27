@@ -1,8 +1,8 @@
 # Time-series-analysis
 
 ## Model Used
-- RNN
-- LSTM
-- GRU
-- MLP
-- SVM Regression
+- Recurrent neural network
+- Long short-term memory
+- Gated recurrent unit 
+- Multilayer perceptron
+- Support vector regression
